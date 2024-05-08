@@ -1,0 +1,29 @@
+site_name: PepperDocs
+site_description: Pepper Care Instructions
+site_author: adamkoziol
+
+# Directory containing the documentation source files
+docs_dir: 'docs'
+
+theme:
+  name: 'readthedocs'
+  favicon: 'images/favicon.ico'
+
+# Navigation structure
+nav:
+  - Home: 'index.md'
+  - Hot Peppers:
+    - Blood Ghost: "blood_ghost.md"
+    - Naga Tiger DD: 'naga_tiger_dd.md'
+    - Trinidad Moruga Scorpion: 'trinidad_moruga_scorpion.md'
+    - Carolina Reaper: 'carolina_reaper.md'
+    - Ghost Pepper: 'ghost_pepper.md'
+    - Habanero: 'habanero.md'
+    - Jalapeno: 'jalapeno.md'
+    - Poblano: 'poblano.md'
+    - Serrano: 'serrano.md'
+  - Medium Peppers:
+    - Aji White Lightning Bolt: 'aji_white_lightning_bolt.md'
+    - Cayenne: cayenne.md
+  - Sweet Peppers:
+    - Bell Pepper: 'bell_pepper.md'
