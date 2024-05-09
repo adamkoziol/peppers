@@ -32,7 +32,7 @@
 
 When the fruit is large and firm it is ready to pick. Or wait for the fruit to ripen further turning yellow. The sweetness and vitamin C content go up dramatically as the fruit changes colour. If you pick green, the total numbers of peppers harvested will increase. Fruit that sets after late August will not usually develop or ripen. Pull out the entire bush just before the first frost and hang it upside down in a warm, dry place to ripen hot peppers. 
 
-#### Notes
+### Notes
 
 - **Soil should have abundant phosphorus and calcium**, so add lime and compost to the bed at least three weeks prior to transplanting
 - Mix ½ cup of balanced organic fertilizer beneath each plant. 

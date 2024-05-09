@@ -35,15 +35,15 @@ Young peppers are green, turns colour as they mature.
 When the fruit is large and firm it is ready to pick.
 
 
-#### Notes
+### Notes
 
 - **Soil should have abundant phosphorus and calcium**, so add lime and compost to the bed at least three weeks prior to transplanting
 - Mix ½ cup of balanced organic fertilizer beneath each plant. 
-  - Replenish throughout the season
-- Spread mulch (such as chopped leaves or straw) around the plants to help keep the soil cool and moist.
+    - Replenish throughout the season
+- Spread mulch around the plants to help keep the soil cool and moist.
 - Peppers will tolerate dry soil, they will only put on good growth if kept moist.
-- Harden off seedlings before planting
-- Pinch back growing tips to encourage leaf production
+- [Harden off](hardening_off.md) seedlings before planting
+- [Pinch back growing tips](pinching_pepper_flowers.md) to encourage leaf production
 - Support each pepper plant with a stake or small tomato cage, to help bear the weight of the fruit once it begins to produce.
 
 ### Companion planting
