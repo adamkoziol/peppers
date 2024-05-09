@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Shepherd**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Shepherd](images/shepherd.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**Shepherd** plants produce an early yield of high quality, defect-free fruits. Flesh is thick and juicy and is good fresh, fried or pickled. Heavy foliage cover protects fruit from sunscald. Three to four lobed fruits average 3″ wide at the shoulder and 5-7″ long. Fruit set is concentrated at the base of the plant.
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/shepherd-sweet-pepper/)

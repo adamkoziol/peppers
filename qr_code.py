@@ -1,7 +1,22 @@
+#! /usr/env/python 3
+
+"""
+Generate custom QR codes. Outputs single images, and 4 x 5 tiled
+"""
+
+# Standard imports
 import argparse
-import qrcode
-from PIL import Image, ImageDraw, ImageFont
+import csv
 import os
+
+# Third party imports
+from PIL import (
+    Image,
+    ImageDraw,
+    ImageFont
+)
+import qrcode
+
 
 class QRCodeGenerator:
     """
@@ -110,14 +125,52 @@ class QRCodeGenerator:
         # Draw title
         draw.text((title_x, title_y), self.title, font=font, fill="black")
 
-        # Save it somewhere, change the extension as needed:
-        img.save(self.output_path)  # png, jpg, svg, pdf
-        print('Saving file:', self.output_path)
+        # Draw email at the bottom
+        email = "canaanlea.farm@gmail.com"
+        email_width = draw.textlength(email, font=font)
+        email_x = (qr_width - email_width) // 2
+        email_y = qr_height - 40  # adjust as needed
+        draw.text((email_x, email_y), email, font=font, fill="black")
+
+        # Save single QR code
+        single_output = f'{self.output_path}_single.png'
+        img.save(single_output)  # png, jpg, svg, pdf
+        print('Saving file:', single_output)
+
+        # Function to convert cm to pixels
+        def cm_to_pixels(cm):
+            return int(cm * 118.11)  # 1 cm = 118.11 pixels at 300 DPI
+
+        # Scale QR code to approximately 5 cm x 5 cm (assuming 300 DPI)
+        scaled_img = img.resize((cm_to_pixels(5), cm_to_pixels(5)))
+
+        # Create new image for tiling
+        spacing = cm_to_pixels(0.5)  # 1 cm spacing
+        tile_width = scaled_img.width * 4
+        tile_height = (scaled_img.height + spacing) * 5
+        tiled_img = Image.new('RGB', (tile_width, tile_height), 'white')
+
+        # Paste QR codes into tiled image
+        for i in range(5):
+            for j in range(4):
+                tiled_img.paste(
+                    scaled_img,
+                    (j * scaled_img.width, i * (scaled_img.height + spacing))
+                )
+
+        # Save tiled QR code
+        tiled_output = f'{self.output_path}_tiled.png'
+        tiled_img.save(tiled_output)
+        print('Saving file:', tiled_output)
 
 
 # Create argument parser
 parser = argparse.ArgumentParser(
-    description='Generate a QR code with a custom logo.'
+    description='Generate a QR codes with a custom logo.'
+)
+parser.add_argument(
+    '--file',
+    help='The file containing the titles and output names.'
 )
 parser.add_argument(
     '--url',
@@ -125,12 +178,11 @@ parser.add_argument(
 )
 parser.add_argument(
     '--output_path',
-    default='qr_codes',
+    default='QR_codes',
     help='The output file path.'
 )
 parser.add_argument(
     '--output_name',
-    required=True,
     help='The output file name.'
 )
 parser.add_argument(
@@ -140,21 +192,50 @@ parser.add_argument(
 )
 parser.add_argument(
     '--title',
-    required=True,
     help='The title to be printed at the top of the QR code.'
 )
 
 # Parse arguments
 args = parser.parse_args()
 
-# Create output file path
-output_file_path = os.path.join(args.output_path, args.output_name)
+if args.file:
+    # Read from file
+    with open(args.file, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f, delimiter='\t')
+        for row in reader:
+            title, output_name = row
 
-# Create QRCodeGenerator instance and generate QR code
-qr_generator = QRCodeGenerator(
-    args.url,
-    args.logo,
-    output_file_path,
-    args.title
-)
-qr_generator.generate_qr_code()
+            # Construct URL
+            url = f'https://adamkoziol.github.io/peppers/{output_name}'
+
+            # Create output file path
+            output_file_path = os.path.join(
+                args.output_path,
+                output_name)
+            # Create QRCodeGenerator instance and generate QR code
+            qr_generator = QRCodeGenerator(
+                url,
+                args.logo,
+                output_file_path,
+                title
+            )
+            qr_generator.generate_qr_code()
+else:
+    # Check if url, output_name and title are provided
+    if not all([args.url, args.output_name, args.title]):
+        print("Please provide url, output_name and title arguments.")
+        raise SystemExit
+
+    # Create output file path
+    output_file_path = os.path.join(
+        args.output_path,
+        args.output_name)
+
+    # Create QRCodeGenerator instance and generate QR code
+    qr_generator = QRCodeGenerator(
+        args.url,
+        args.logo,
+        output_file_path,
+        args.title
+    )
+    qr_generator.generate_qr_code()

@@ -1,8 +1,6 @@
 ## **Blood Ghost**
   - [Description](#description)
   - [Planting Information](#planting-information)
-    - [Spacing](#spacing)
-    - [Notes](#notes)
   - [Companion planting](#companion-planting)
   - [Seed information](#seed-information)
 
@@ -45,18 +43,23 @@ The **Blood Ghost** is a variant of the red ghost pepper with a lower spiciness 
 
 **Friends**
 
-   1. asparagus
-   2. basil
-   3. carrots
-   4. cucumbers
-   5. eggplant
-   6. endive
-   7. oregano
-   8. parsley
-   9. rosemary
-   10. squash
-   11. Swiss chard
-   12. tomatoes
+  1. alliums
+  2. asparagus
+  3. basil
+  4. carrots
+  5. cucumbers
+  6. eggplant
+  7. endive
+  8. marjoram
+  9. Marigold
+  10. Nasturtium
+  11. oregano
+  12. parsley
+  13. rosemary
+  14. spinach
+  15. squash
+  16. Swiss chard
+  17. tomatoes
 
 **Foes**
 

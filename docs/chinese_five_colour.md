@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Chinese Five Colour**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,13 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Chinese Five Colour](images/chinese_five_colour.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
-
+**Chinese Five Colour** pepper colour varies from purple to cream in the garden. Compact and easy to grow. Mature like a rainbow in five colors and gains in heat as they change color, turning from cream, purple, yellow, orange, and finally red. Pepper is a small, conical, ornamental type pepper that grows to about an inch in length and provides a sweet yet bitter flavor with an earthy aftertaste. 4’ tall plant and produces over 100 peppers per plant on average. Eaten raw, stir-fried or roasted. You can even make salsa, dips, and hot sauces! Heat Level: 5,000-50,000 SHU.
 ### Planting Information
 
 #### Spacing 
@@ -76,4 +74,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/chinese-five-colour-hot-pepper/)

@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Death Spiral**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Death Spiral](images/death_spiral.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**Death Spiral** peppers change color as they ripen, from light green to peach, then orange and finally red. Their ends are pointy, and they can develop tails as well. The flavor is floral and fruity, with an upfront burn that’s hotter than most Naga type peppers. The plants grow to over four feet tall, and the fruit shape and size may vary quite a bit. 1.3 million SHU.
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/)

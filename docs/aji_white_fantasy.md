@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Aji White Fantasy**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Aji White Fantasy](images/aji_white_fantasy.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+The **Aji White Fantasy** is one of the best tasting mild chili peppers.  The White variant of the Aji Fantasy is from Finland.  It has a sweet tangy flavor but less heat and more citrus tones than the original Aji Fantasy. It is a very bright zingy flavor.  The peppers are shaped like little hats and have a creamy white color when fully ripened.  5,000 to 10,000 SHU
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/)

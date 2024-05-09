@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **HMS Yellow Picnic**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![HMS Yellow Picnic](images/HMS_yellow_picnic.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**HMS Yellow Picnic** plants have vivid bright yellow 3-5” fruit. The yellow Picnic Pepper has a nice tart flavor with good complexity and a nice crisp crunch. Selected for upright plant habit, good flavor and thick walls.
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/hms-yellow-picnic-pepper/)

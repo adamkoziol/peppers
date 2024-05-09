@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Carolina Reaper**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Carolina Reaper](images/carolina_reaper.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**Carolina Reaper** is officially the hottest pepper on record, at 1,500,000 SHU, and has peaked at 2,200,000 SHU. The smallish peppers mature from green to fire engine red, and are gnarled and bumpy with a distinctive pointed tip some growers call "the stinger." The Carolina Reaper has a sweet and fruity flavor with unrelenting, extreme heat. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. They are somewhat challenging to grow. Please take extreme caution when handling the seeds and eventual fruits they produce. 
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/products/t-rex-mustard)

@@ -1,0 +1,27 @@
+7 Pot Congo Chocolate	7_pot_congo_chocolate
+Adrenalina	adrenalina 
+Blood Ghost	blood_ghost
+Carolina Reaper	carolina_reaper
+Da Hulk	da_hulk
+Death Spiral	death_spiral
+Jamaican Scotch Bonnet	jamaican_scotch_bonnet
+Leviathan Scorpion Chocolate	leviathan_scorpion_chocolate
+Orange Habanero	orange_habanero
+Naga Tiger DD	naga_tiger_dd
+Reaper Pink Peach	reaper_pink_peach
+T-Rex Mustard	t-rex_mustard
+Trinidad Moruga Scorpion	trinidad_moruga_scorpion
+White Habanero	white_habanero
+Yellow Fatalii	yellow_fatalii
+Aji White Fantasy	aji_white_fantasy
+Aji White Lightning Bolt	aji_white_lightning_bolt
+Cayenne	cayenne
+Chinese Five Colour	chinese_five_colour
+Count Dracula	count_dracula
+Thai Dragon	thai_dragon
+Cubanelle	cubanelle
+Gatherer’s Gold	gatherers_gold
+Georgescu Chocolate	georgescu_chocolate
+HMS Orange Picnic	HMS_orange_picnic
+HMS Yellow Picnic	HMS_yellow_picnic
+Shepherd	shepherd

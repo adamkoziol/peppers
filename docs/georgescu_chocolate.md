@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Georgescu Chocolate**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Georgescu Chocolate](images/georgescu_chocolate.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**Georgescu Chocolate** performs well in northern gardens. Sturdy plants are very productive. The fruit is 4-5 inches long and 2 inches wide. The colour starts out green then turns a beautiful and shiny chocolate brown. The texture is crisp, maintaining a fresh taste for weeks on the plant and stores well once picked. The taste is full bodied and chocolate sweet.
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/georgescu-chocolate-pepper/)

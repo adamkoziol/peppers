@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Adrenalina**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Adrenalina](images/adrenalina.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**Adrenalina** The Adrenalina Red Pepper originates Italy and is a cross between Red Shark and 7 Pot Bubblegum Red. Fruits can get to 3.5 inch long and turns from green to red/black when fully ripe. Plants can get to 48+ inches tall but often times they stay around 36 inches tall. Pods are hot (Scoville units: 100,000 to  200,000 SHU) and have a really nice fruity smell. 
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/)

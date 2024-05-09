@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Cubanelle**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Cubanelle](images/cubanelle.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+The **cubanelle** is an heirloom sweet Italian frying pepper with a sweet mild flavor. These bright green thin-walled peppers are growing in popularity and add a pretty color for frying and cooking. Chefs and home cooks often prefer them to bell peppers because of their excellent flavor and their low moisture content, which makes them perfect for quick cooking in lots of recipes. Peppers can grow to 5″ long on productive 30” plants. It is best to cut them from the stem when they are yellowish-green, but they can also be left on the plant to mature to bright red.
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/cubanelle-pepper/)

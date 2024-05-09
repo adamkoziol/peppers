@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Leviathan Scorpion Chocolate**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Leviathan Scorpion Chocolate](images/leviathan_scorpion_chocolate.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+The **Leviathan Scorpion Chocolate** is a natural cross between a Leviathan Gnarly Scorpion and a dark / purple foliage pepper. The plant and early pods on these is purple, but the final stage they ripen to chocolate. These are very productive and not nearly as hot as the original Leviathan gnarly scorpion pepper. Scoville Heat Units: 1,000,000+ SHU
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/)

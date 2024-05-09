@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Thai Dragon**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Thai Dragon](images/thai_dragon.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**Thai Dragon** is an heirloom chili pepper dating from the nineteenth century. 50,000 to 100,000 SHU. Plants grow 30-45 cm (12-18”) high on short sturdy bushes with a 30-45 cm (12-18”) wide spread.  Leaves are elongated and dark green.  Tiny delicate white flowers give rise to clusters of upright green peppers that turn bright red at maturity.  The peppers average around  5-8 cm (2-3½"), long and 20 mm (¾"), wide at the shoulders.
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/thai-dragon-hot-pepper/)

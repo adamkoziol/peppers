@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Reaper Pink Peach**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,12 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Reaper Pink Peach](images/reaper_pink_peach.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+The **Reaper Pink Peach** is a cross between a Reaper and a Pink Tiger. This dark foliage plant quickly loads up with hundreds of pods that go through numerous transitions before finally maturing pink peach. They look pretty cute, but they do pack a punch, quite a bit of heat and oil in these pods.
+
 
 ### Planting Information
 
@@ -22,7 +22,7 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Location
 
-- Full sun, or at least 6-8 hours of sun per day
+- Partial shade, or at least 4-6 hours of sun per day
 - Well-drained soil
 
 ### Watering
@@ -76,4 +76,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/products/count-dracula)

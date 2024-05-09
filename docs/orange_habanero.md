@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Orange Habanero**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,13 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Orange Habanero](images/orange_habanero.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
-
+The **Orange Habanero** is a high yielding habanero, turns green to orange when maturing. 325,000 SHU. Bonnet-shaped scorcher is a key ingredient in Jamaican ‘jerk’ sauce. Grows remarkably well for our cool northeast climate.
 ### Planting Information
 
 #### Spacing 
@@ -76,4 +74,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/orange-habanero-hot-pepper/)

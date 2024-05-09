@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **T-Rex Mustard**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![T-Rex Mustard](images/t-rex_mustard.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**T-Rex Mustard** peppers are twisted and gnarly with tails. Heat (SHU: 1,000,000+) surpasses a ghost pepper. Plant is very productive pumping out lots of peppers. Mustard varieties can be a little tricky to tell when they're ripe since they are still green. You can visibly see a change in the hue of green between a ripe and unripe pepper.
 
 ### Planting Information
 
@@ -76,4 +75,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/products/t-rex-mustard)

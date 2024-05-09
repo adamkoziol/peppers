@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **7 Pot Congo Chocolate**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,11 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![7 Pot Congo Chocolate](images/7_pot_congo_chocolate.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**7 Pot Congo Chocolate** peppers have very good taste and aroma, and the plant itself is super productive despite being on the smaller side. Highly recommend growing this one if you enjoy chocolate super-hots. 1,200,000+ SHU
 
 ### Planting Information
 
@@ -61,7 +60,6 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
   15. squash
   16. Swiss chard
   17. tomatoes
-
 **Foes**
 
    1. beans
@@ -76,4 +74,4 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Scoville Canada](https://scovillecanada.com/products/7-pot-chocolate-congo)

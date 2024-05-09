@@ -1,4 +1,4 @@
-## **Trinidad Moruga Scorpion**
+## **Gatherer’s Gold**
   - [Description](#description)
   - [Planting Information](#planting-information)
   - [Companion planting](#companion-planting)
@@ -7,12 +7,13 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Gatherer’s Gold](images/gatherers_gold.png)
 
 ### Description
 
-The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region of Moruga in Trinidad and Tobago. It currently sits as the second hottest chilli in the world after the Carolina Reaper. Although it has clocked in at 2 million SHUs at its most potent, on average the pepper are in the 1.2 million Scoville heat units range. The smallish, puckered fruits mature from green through orange and then to a deep red, at which point the flavour is most refined and fruity. This species of pepper can be grown as a perennial in warmer climates (or heated greenhouses), or brought inside over winter. 
+**Gatherer’s Gold** have deep orange 3-5” fruit. Excellent pepper for snacking on a picnic. Original Breeder: High Mowing Seeds. High yielding, thick wall, an upright plant.
+
+Young peppers are green, turns colour as they mature.
 
 ### Planting Information
 
@@ -76,4 +77,5 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 
 ### Seed information
 
-[West Coast Seeds](https://www.westcoastseeds.com/products/trinidad-moruga-scorpion)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/gatherers-gold-sweet-pepper/)
+[Gaia Organic Seeds](https://gaiaorganics.ca/product/gatherers-gold-sweet-pepper/)

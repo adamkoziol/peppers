@@ -13,17 +13,32 @@ theme:
 nav:
   - Home: 'index.md'
   - Hot Peppers:
+    - 7 Pot Congo Chocolate: "7_pot_congo_chocolate.md"
+    - Adrenalina: "adrenalina.md"
     - Blood Ghost: "blood_ghost.md"
+    - Carolina Reaper: "carolina_reaper.md"
+    - Da Hulk: "da_hulk.md"
+    - Death Spiral: "death_spiral.md"
+    - Jamaican Scotch Bonnet: "jamaican_scotch_bonnet.md"
+    - Leviathan Scorpion Chocolate: "leviathan_scorpion_chocolate.md"
     - Naga Tiger DD: 'naga_tiger_dd.md'
-    - Trinidad Moruga Scorpion: 'trinidad_moruga_scorpion.md'
-    - Carolina Reaper: 'carolina_reaper.md'
-    - Ghost Pepper: 'ghost_pepper.md'
-    - Habanero: 'habanero.md'
-    - Jalapeno: 'jalapeno.md'
-    - Poblano: 'poblano.md'
-    - Serrano: 'serrano.md'
+    - Orange Habanero: 'orange_habanero.md'
+    - Reaper Pink Peach: "reaper_pink_peach.md"
+    - T-Rex Mustard: "t-rex_mustard.md"
+    - Trinidad Moruga Scorpion: "trinidad_moruga_scorpion.md"
+    - White Habanero: "white_habanero.md"
+    - Yellow Fatalii: "yellow_fatalii.md"
   - Medium Peppers:
+    - Aji White Fantasy: "aji_white_fantasy.md"
     - Aji White Lightning Bolt: 'aji_white_lightning_bolt.md'
-    - Cayenne: cayenne.md
+    - Cayenne: "cayenne.md"
+    - Chinese Five Colour: "chinese_five_colour.md"
+    - Count Dracula: "count_dracula.md"
+    - Thai Dragon: "thai_dragon.md"
   - Sweet Peppers:
-    - Bell Pepper: 'bell_pepper.md'
+    - Cubanelle: "cubanelle.md"
+    - Gatherer’s Gold: "gatherers_gold.md"
+    - Georgescu Chocolate: "georgescu_chocolate.md"
+    - HMS Orange Picnic: "HMS_orange_picnic.md"
+    - HMS Yellow Picnic: "HMS_yellow_picnic.md"
+    - Shepherd: "shepherd.md"
