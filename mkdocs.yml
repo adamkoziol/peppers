@@ -42,3 +42,6 @@ nav:
     - HMS Orange Picnic: "HMS_orange_picnic.md"
     - HMS Yellow Picnic: "HMS_yellow_picnic.md"
     - Shepherd: "shepherd.md"
+  - Tips and Techniques:
+    - Hardening Off: "hardening_off.md"
+    - Pinching Pepper Flowers: "pinching_pepper_flowers.md"

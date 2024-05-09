@@ -11,7 +11,7 @@
 
 ### Description
 
-The **Aji White Fantasy** is one of the best tasting mild chili peppers.  The White variant of the Aji Fantasy is from Finland.  It has a sweet tangy flavor but less heat and more citrus tones than the original Aji Fantasy. It is a very bright zingy flavor.  The peppers are shaped like little hats and have a creamy white color when fully ripened.  5,000 to 10,000 SHU
+The **Aji White Fantasy** is one of the best tasting mild chili peppers. The White variant of the Aji Fantasy is from Finland.  It has a sweet tangy flavor but less heat and more citrus tones than the original Aji Fantasy. It is a very bright zingy flavor.  The peppers are shaped like little hats and have a creamy white color when fully ripened.  5,000 to 10,000 SHU
 
 ### Planting Information
 
@@ -27,6 +27,10 @@ The **Aji White Fantasy** is one of the best tasting mild chili peppers.  The Wh
 ### Watering
 
   - Water immediately after planting, then regularly throughout the season. Aim for a total of 1-2 inches per week (more when it's hotter).
+
+### Harvesting
+
+When the fruit is large and firm it is ready to pick. Or wait for the fruit to ripen further turning white. The sweetness and vitamin C content go up dramatically as the fruit changes colour. If you pick green, the total numbers of peppers harvested will increase. Fruit that sets after late August will not usually develop or ripen. Pull out the entire bush just before the first frost and hang it upside down in a warm, dry place to ripen hot peppers. 
 
 #### Notes
 

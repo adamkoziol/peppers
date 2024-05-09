@@ -30,6 +30,10 @@ Young peppers are green, turns colour as they mature.
 
   - Water immediately after planting, then regularly throughout the season. Aim for a total of 1-2 inches per week (more when it's hotter).
 
+### Harvesting
+
+When the fruit is large and firm it is ready to pick.
+
 #### Notes
 
 - **Soil should have abundant phosphorus and calcium**, so add lime and compost to the bed at least three weeks prior to transplanting

@@ -34,3 +34,7 @@ Complete index of 2024 pepper plants
 1. [HMS Orange Picnic](HMS_orange_picnic.md)
 1. [HMS Yellow Picnic](HMS_yellow_picnic.md)
 1. [Shepherd](shepherd.md)
+
+### Tips and Techniques
+1. [Hardening Off](hardening_off.md)
+1. [Pinching Pepper Flowers](pinching_pepper_flowers.md)

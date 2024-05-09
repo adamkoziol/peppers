@@ -7,8 +7,7 @@
 ---
 
 
-![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png
-)
+![Trinidad Moruga Scorpion](images/trinidad_maruga_scorpion.png)
 
 ### Description
 
@@ -28,6 +27,10 @@ The **Trinidad Moruga Scorpion** is an extremely hot pepper native to the region
 ### Watering
 
   - Water immediately after planting, then regularly throughout the season. Aim for a total of 1-2 inches per week (more when it's hotter).
+
+### Harvesting
+
+When the fruit is large and firm it is ready to pick. Or wait for the fruit to ripen further turning red. The sweetness and vitamin C content go up dramatically as the fruit changes colour. If you pick green, the total numbers of peppers harvested will increase. Fruit that sets after late August will not usually develop or ripen. Pull out the entire bush just before the first frost and hang it upside down in a warm, dry place to ripen hot peppers. 
 
 #### Notes
 

@@ -28,11 +28,15 @@
 
   - Water immediately after planting, then regularly throughout the season. Aim for a total of 1-2 inches per week (more when it's hotter).
 
+### Harvesting
+
+When the fruit is large and firm it is ready to pick. Or wait for the fruit to ripen further brown. The sweetness and vitamin C content go up dramatically as the fruit changes colour. If you pick green, the total numbers of peppers harvested will increase. Fruit that sets after late August will not usually develop or ripen. Pull out the entire bush just before the first frost and hang it upside down in a warm, dry place to ripen hot peppers. 
+
 #### Notes
 
 - **Soil should have abundant phosphorus and calcium**, so add lime and compost to the bed at least three weeks prior to transplanting
 - Mix ½ cup of balanced organic fertilizer beneath each plant. 
-  - Replenish throughout the season
+    - Replenish throughout the season
 - Spread mulch (such as chopped leaves or straw) around the plants to help keep the soil cool and moist.
 - Peppers will tolerate dry soil, they will only put on good growth if kept moist.
 - Harden off seedlings before planting
