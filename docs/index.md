@@ -38,3 +38,4 @@ Complete index of 2024 pepper plants
 ### Tips and Techniques
 1. [Hardening Off](hardening_off.md)
 1. [Pinching Pepper Flowers](pinching_pepper_flowers.md)
+1. [Topping Pepper Plants](topping_pepper_plants.md)

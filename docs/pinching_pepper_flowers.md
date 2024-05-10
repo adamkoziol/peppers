@@ -6,4 +6,4 @@ To pinch pepper flowers, simply use your fingers or small pruners to gently remo
 
 ![Pinching Pepper Flowers](images/pinching_pepper_flowers.png)
 
-[Source](https://homesteadandchill.com/topping-pepper-plants/#:~:text=Topping%20Pepper%20Plants%3A%20When%20and%20How&text=We%20usually%20top%20our%20pepper,my%20favorite%20small%20pruning%20snips.)
+[Source](https://homesteadandchill.com/topping-pepper-plants/#:~:text=and%20flower%20buds.-,Pinching%20Pepper%20Flowers,-While%20it%20may)
